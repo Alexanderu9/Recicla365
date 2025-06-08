@@ -1,0 +1,43 @@
+.cabecalho {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 1.5rem 1rem 1rem 1rem;
+  background: linear-gradient(90deg, #fff 0%, #b6fcb6 50%, #388e3c 100%);
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
+  box-shadow: 0 2px 12px 0 rgba(56, 142, 60, 0.08);
+}
+
+.topo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.titulo {
+  font-size: 2.2rem;
+  font-weight: bold;
+  color: #263238;
+  letter-spacing: 1px;
+  text-shadow: 0 2px 8px #b6fcb6;
+}
+
+.acoes {
+  display: flex;
+  gap: 12px;
+}
+
+@media (max-width: 600px) {
+  .cabecalho {
+    padding: 1rem 0.5rem;
+  }
+  .topo {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .titulo {
+    font-size: 1.3rem;
+  }
+}

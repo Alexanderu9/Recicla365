@@ -1,0 +1,10 @@
+.profileContainer {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 24px;
+  background: var(--card);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #0001;
+  display: grid;
+  gap: 12px;
+}

@@ -1,0 +1,21 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 16px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.cardsGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+@media (max-width: 700px) {
+  .cardsGrid {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+}

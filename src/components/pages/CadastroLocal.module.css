@@ -1,0 +1,10 @@
+.formContainer {
+  max-width: 500px;
+  margin: 0 auto;
+  display: grid;
+  gap: 12px;
+  background: var(--card);
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #0001;
+}
