@@ -42,7 +42,7 @@ export function Dashboard() {
     <div className={styles.container}>
       <h2>Dashboard</h2>
       <img
-  src="/public/Reciclavel.jpeg"
+  src="/Reciclavel.jpeg"
   alt="Natureza ecológica"
   style={{ width: '100%', maxHeight: 220, objectFit: 'cover', borderRadius: 12, marginBottom: 24 }}
 />
