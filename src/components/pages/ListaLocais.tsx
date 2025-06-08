@@ -44,7 +44,7 @@ export function ListaLocais() {
     <li key={local.id} className={styles.item}>
       <img
         className="imagem-local"
-        src="/public/Reciclavel.jpeg"
+        src="/Reciclavel.jpeg"
         alt="Ponto de coleta de recicláveis"
         width={700}
         height={500}

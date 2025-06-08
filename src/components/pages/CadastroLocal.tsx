@@ -157,7 +157,7 @@ export function CadastroLocal() {
       <button type="submit">{searchParams.get('id') ? 'Salvar alterações' : 'Cadastrar'}</button>
     </form>
    <img
-      src="/public/Reciclavel.jpeg"
+      src="/Reciclavel.jpeg"
       alt="Ponto de coleta de recicláveis"
       style={{ width: '100%', maxWidth: 480, borderRadius: 12, margin: '0 auto' }}
     />
