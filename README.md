@@ -61,6 +61,22 @@ A falta de informações centralizadas sobre pontos de coleta de resíduos dific
 
 ---
 
+## 🔑 Usuários para Teste
+
+Para facilitar o teste da aplicação, você pode usar qualquer um dos usuários pré-cadastrados:
+
+| Nome   | E-mail            | Senha |
+|--------|-------------------|-------|
+| Maria  | maria@teste.com   | 123   |
+| João   | joao@teste.com    | 123   |
+| Ana    | ana@teste.com     | 123   |
+| Carlos | carlos@teste.com  | 123   |
+| Paula  | paula@teste.com   | 123   |
+
+> **💡 Dica:** Use qualquer um desses usuários para fazer login e explorar todas as funcionalidades da plataforma!
+
+---
+
 ## 👨‍💻 Como usar
 
 1. **Login:**
